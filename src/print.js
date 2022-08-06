@@ -1,3 +1,3 @@
 export default function PrintMe(){
-    console.log('需要输出',new Date());
+    console.log('update print.js',new Date());
 }
